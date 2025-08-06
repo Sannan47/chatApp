@@ -59,8 +59,7 @@ export default function Home() {
             {isLogin ? "Sign in to your account" : "Create a new account"}
           </p>
         </div>
-
-        {/* Auth Card */}
+        
         <div className="bg-white dark:bg-gray-800 shadow-xl rounded-2xl p-8">
           {/* Toggle Buttons */}
           <div className="flex mb-6 bg-gray-100 dark:bg-gray-700 rounded-lg p-1">
